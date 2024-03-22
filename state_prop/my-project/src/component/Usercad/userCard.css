@@ -1,0 +1,15 @@
+.user-card
+{
+    border: 2px solid coral;
+    border-radius: 8px;
+    /* height: 400px; */
+    height: auto;
+    width: 300px;
+}
+.img-style
+{
+        width: 200px; /* Adjust this value to your desired size */
+        height: 200px; /* Adjust this value to your desired size */
+        object-fit: cover; /* Optional: controls how image is resized */
+        margin-top: 20px;     
+}

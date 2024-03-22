@@ -1,0 +1,7 @@
+.styled-div {
+    color: black;
+    border: 2px solid #ccc; /* Solid border with 2px width */
+    border-radius: 10px; /* Rounded corners with a radius of 10px */
+    background-color: #f0f0f0; /* White-gray background */
+    padding: 20px; /* Padding to create space inside the div */
+  }
